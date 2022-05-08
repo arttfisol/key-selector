@@ -1,4 +1,4 @@
 module.exports = {
-  keySelector: require('./src/keySelector'),
-  keySelectorAll: require('./src/keySelectorAll')
+  keySelector: require('./lib/keySelector'),
+  keySelectorAll: require('./lib/keySelectorAll')
 }
